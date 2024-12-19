@@ -1,0 +1,5 @@
+/home/aluno/IdeaProjects/atividadePOO_springboot/src/main/java/com/br_ifg/clientbackend/service/ClienteService.java
+/home/aluno/IdeaProjects/atividadePOO_springboot/src/main/java/com/br_ifg/clientbackend/entity/Cliente.java
+/home/aluno/IdeaProjects/atividadePOO_springboot/src/main/java/com/br_ifg/clientbackend/controller/ClienteController.java
+/home/aluno/IdeaProjects/atividadePOO_springboot/src/main/java/com/br_ifg/clientbackend/repository/ClienteRepository.java
+/home/aluno/IdeaProjects/atividadePOO_springboot/src/main/java/com/br_ifg/clientbackend/ClientBackendApplication.java
